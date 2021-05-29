@@ -1,2 +1,2 @@
-#This project created while learning reactJS, its an clone of amazon e-commerce website 
-## In this, project i have used firebase to autheticate user using firebase, used react-router-dom to use routing in website, material-ui to style website and also used react-hooks
+## This project created while learning reactJS, its an clone of amazon e-commerce website 
+In this, project i have used firebase to autheticate user using firebase, used react-router-dom to use routing in website, material-ui to style website and also used react-hooks
